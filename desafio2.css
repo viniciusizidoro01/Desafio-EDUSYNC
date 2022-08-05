@@ -96,8 +96,8 @@ form textarea{
     border-radius: 4px;
     height: 42px;
     width: 128px;
-    
     font-weight: 400;
+    border-color: none;
 
 }
 
