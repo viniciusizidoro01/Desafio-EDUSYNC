@@ -58,7 +58,6 @@ main {
     line-height: 42.19px;
     color: #660027;
     height: 42px;
-
 }
 
 form {
@@ -68,16 +67,14 @@ form {
     color: #7b7676;
     gap: 29px;
     font-size: 24px;
-
 }
-form input{
 
+form input{
     width: 400px;
     height: 42px;
     border-radius: 4px;
     border: 1px solid #660027;
-    margin-top: -25px;
-
+    mar
 }
 
 form textarea{
@@ -86,7 +83,6 @@ form textarea{
     border-radius: 4px;
     border: 1px solid #660027;
     margin-top: -25px;
-
 }
 
 
@@ -98,7 +94,6 @@ form textarea{
     width: 128px;
     font-weight: 400;
     border-color: none;
-
 }
 
 .contato {
@@ -112,12 +107,10 @@ form textarea{
     text-align: center;
     justify-content: center;
     gap:10px;
-    
 }
 
 @media (max-width: 768px) {
-    
-    
+
     body {
         width: 595px;
     }
